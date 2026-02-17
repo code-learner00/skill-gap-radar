@@ -1,0 +1,28 @@
+# ── Dependencies ─────────────────────────────────────
+node_modules/
+
+# ── Environment variables (NEVER commit these) ───────
+.env
+.env.local
+.env.production
+.env.staging
+
+# ── Logs ─────────────────────────────────────────────
+logs/
+*.log
+npm-debug.log*
+
+# ── Uploads (if any temp files land on disk) ─────────
+uploads/
+tmp/
+
+# ── OS files ─────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo

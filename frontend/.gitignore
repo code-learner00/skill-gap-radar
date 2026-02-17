@@ -1,0 +1,25 @@
+# ── Dependencies ─────────────────────────────────────
+node_modules/
+
+# ── Environment variables (NEVER commit these) ───────
+.env
+.env.local
+.env.production
+
+# ── Vite build output ─────────────────────────────────
+dist/
+dist-ssr/
+
+# ── Cache ─────────────────────────────────────────────
+.vite/
+.cache/
+
+# ── OS files ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
