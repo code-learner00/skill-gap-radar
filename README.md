@@ -1,1 +1,1 @@
-# skill-gap-radar
+Skill Gap Radar helps job seekers and professionals identify skill gaps by comparing their resumes against job descriptions. Unlike AI-based solutions that operate as black boxes, this platform uses deterministic scoring algorithms to provide transparent, auditable, and actionable insights.
